@@ -2,11 +2,6 @@
 import os
 
 
-
-
-
-
-
 #Các hàm
 
 #Hàm này tao ten file tu dong bắt đầu bằng cụm filename tiếp theo là số các file kết thúc là .html
